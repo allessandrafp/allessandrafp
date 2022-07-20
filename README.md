@@ -12,6 +12,6 @@
 <img align="center" alt="androidstudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div><br/>
 
-Apaixonada por tecnologia e aspirante a programadora, em transição de carreira paraa área de desenvolvimento mobile nativo.
+Apaixonada por tecnologia e aspirante a programadora, em transição de carreira para a área de desenvolvimento mobile nativo.
 
 #### E-mail para contato: allessandra.fp@gmail.com
